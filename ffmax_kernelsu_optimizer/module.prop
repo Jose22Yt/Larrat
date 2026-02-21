@@ -1,0 +1,7 @@
+id=ffmax_optimizer
+name=Free Fire Max Optimizer (KernelSU Next)
+version=v1.0
+versionCode=1
+author=Manus AI
+description=Optimización avanzada para Free Fire Max con ajustes de 120Hz, sensibilidad, resolución dinámica y animaciones a 0. Incluye mejoras para Xiaomi.
+minKernelSU=0.7.0
